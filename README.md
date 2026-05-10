@@ -40,10 +40,9 @@ Java • Spring Boot • React • JavaScript • Node.js • MySQL • Git • 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jumersha01&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jumersha01&theme=radical&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Jumersha01&theme=radical&hide_border=true" />
 
 </div>
-
 ---
 
 #  Connect With Me
