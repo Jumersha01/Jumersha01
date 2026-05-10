@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jumersha
+# Hi , I'm Jumersha
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - Currently learning **Spring Boot & Microservices**
 - Skilled in **JavaScript, React, Java & Backend Development**
@@ -17,13 +17,13 @@
 
 ---
 
-# Tech Stack
+#  Tech Stack
 
-Java • Spring Boot • JavaScript • React • Node.js • MySQL • Git • GitHub • HTML • CSS
+Java • Spring Boot • React • JavaScript • Node.js • MySQL • Git • GitHub • HTML • CSS
 
 ---
 
-# Featured Projects
+#  Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -34,40 +34,27 @@ Java • Spring Boot • JavaScript • React • Node.js • MySQL • Git • 
 
 ---
 
-# GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jumersha01&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jumersha01&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jumersha01&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jumersha01&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-# LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Jumersha001/">
-<img src="https://leetcard.jacoblin.cool/Jumersha001?theme=dark&font=Nunito&ext=heatmap" />
-</a>
-
-</div>
-
----
-
-# Connect With Me
+#  Connect With Me
 
 - GitHub: https://github.com/Jumersha01
 - LinkedIn: https://www.linkedin.com/in/jumersha-fakir-28787231a/
-- LeetCode: https://leetcode.com/u/Jumersha001/
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile
+### ⚡ Thanks for visiting my profile ⚡
 
 </div>
