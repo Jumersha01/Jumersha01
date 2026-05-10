@@ -1,4 +1,4 @@
-# Hi , I'm Jumersha
+# Hi 👋, I'm Jumersha
 
 <div align="center">
 
@@ -8,22 +8,22 @@
 
 ---
 
-#  About Me
+# 🚀 About Me
 
 - Currently learning **Spring Boot & Microservices**
 - Skilled in **JavaScript, React, Java & Backend Development**
 - Building modern frontend applications using **React**
-
+- Building Projects Daily
 
 ---
 
-#  Tech Stack
+# 💻 Tech Stack
 
 Java • Spring Boot • React • JavaScript • Node.js • MySQL • Git • GitHub • HTML • CSS
 
 ---
 
-#  Featured Projects
+# 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -34,7 +34,7 @@ Java • Spring Boot • React • JavaScript • Node.js • MySQL • Git • 
 
 ---
 
-#  GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -43,9 +43,20 @@ Java • Spring Boot • React • JavaScript • Node.js • MySQL • Git • 
 <img height="180em" src="https://streak-stats.demolab.com?user=Jumersha01&theme=radical&hide_border=true" />
 
 </div>
+
 ---
 
-#  Connect With Me
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/Jumersha01" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 - GitHub: https://github.com/Jumersha01
 - LinkedIn: https://www.linkedin.com/in/jumersha-fakir-28787231a/
