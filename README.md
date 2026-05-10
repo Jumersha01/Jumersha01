@@ -13,7 +13,7 @@
 - Currently learning **Spring Boot & Microservices**
 - Skilled in **JavaScript, React, Java & Backend Development**
 - Building modern frontend applications using **React**
-- Building Projects Daily
+
 
 ---
 
