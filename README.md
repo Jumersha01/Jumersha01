@@ -18,14 +18,14 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🌱 Currently learning **Spring Boot & Microservices**
-- 💻 Passionate about **Java Full Stack Development**
-- ⚛️ Building responsive applications using **React**
-- 🔥 Developing REST APIs using **Spring Boot**
-- 📚 Solving Java problems every day
-- 🎯 Goal: Become a Professional Java Full Stack Developer
+- Currently learning **Spring Boot & Microservices**
+- Passionate about **Java Full Stack Development**
+- Building responsive applications using **React**
+- Developing REST APIs using **Spring Boot**
+- Solving Java problems every day
+- Goal: Become a Professional Java Full Stack Developer
 
 ---
 
